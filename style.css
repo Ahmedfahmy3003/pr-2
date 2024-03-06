@@ -1,0 +1,24 @@
+div ul {
+    text-align: center;
+}
+ul.row li {
+    list-style: none;
+    margin: 5px 10px;
+    display: inline-block;
+    width: 5%;
+}
+div #asd {
+    background-color: rgb(215, 15, 72);
+    background-size: 300px 500px;
+}
+.evif {
+    height: 30vh;
+    width: 100%;
+}
+h2.center , p.center {
+    text-align: center;
+}
+video {
+    padding: 0 40%;
+
+}
